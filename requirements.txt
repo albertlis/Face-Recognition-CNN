@@ -1,2 +1,7 @@
-keras-tuner
-imutils
+keras
+tensorflow-gpu
+matplotlib
+numpy
+simplier_keras
+opencv-python
+keras_conv_visualizer
